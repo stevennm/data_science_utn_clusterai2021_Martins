@@ -2,3 +2,7 @@ notes.txt
 /other
 run.bat
 /.ipynb_checkpoints
+*.xml
+*.iml
+web_app/app.py
+web_app/requirements.txt
