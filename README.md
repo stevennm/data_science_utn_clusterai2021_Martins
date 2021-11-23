@@ -1,1 +1,2 @@
-# data_science_utn_clusterai2021_Martins
+# Trabajo Práctico - Ciencia de Datos - 2021
+Predicción de precios de locales en CABA
